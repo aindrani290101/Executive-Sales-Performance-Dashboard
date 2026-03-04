@@ -1,0 +1,45 @@
+Last login: Fri Feb 27 19:21:03 on console
+(base) indraniabbireddy@Indranis-MacBook-Air Executive Sales Performance Dashboard % ls
+Data		Images		Notebook	README.md
+(base) indraniabbireddy@Indranis-MacBook-Air Executive Sales Performance Dashboard % git init
+Initialized empty Git repository in /Users/indraniabbireddy/Documents/GIT/Executive Sales Performance Dashboard/.git/
+(base) indraniabbireddy@Indranis-MacBook-Air Executive Sales Performance Dashboard % nano. gitignore
+zsh: command not found: nano.
+(base) indraniabbireddy@Indranis-MacBook-Air Executive Sales Performance Dashboard % nano .gitignore 
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                     File: .gitignore                      Modified  
+
+.ipynb_checkpoints/
+__pycache__
+data/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
